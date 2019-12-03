@@ -6,6 +6,7 @@ Connect to AirPods using terminal.
 2. Edit line 9 in `airconnect.sh` to your Airpod's name
 3. Excute this command in terminal: `cd ~/ && echo "alias airconnect="~/airconnect.sh"" >> ~/.zshrc`
 4. Re-open terminal window.
+5. Install [Blueutil](http://macappstore.org/blueutil/)
 
 ### Usage
 ```bash
